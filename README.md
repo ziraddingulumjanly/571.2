@@ -4,7 +4,8 @@
 This repository contains solutions to various machine learning tasks designed to apply and demonstrate different techniques and algorithms in Python using Jupyter Notebook.
 
 ## Overview
-![image](https://th.bing.com/th/id/OIP.7u5bQsTw_bllP32M_iK9BgHaEo?rs=1&pid=ImgDetMain)
+![image](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1280,h_853/https://iies.in/wp-content/uploads/2023/08/Machine-Learning.png)
+
 The notebook in this repository includes the following machine-learning tasks:
 
 - **Data Preprocessing**: Cleaning and preparing data for machine learning models, including handling missing values, normalization, and feature engineering.
